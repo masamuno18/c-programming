@@ -1,4 +1,4 @@
-# This is git repo for my C programming specilization on Coursera 
+ This is git repo for my C programming specilization on Coursera 
 
 ## working on the *Duke University* Practice program enivronment. 
 
@@ -7,3 +7,6 @@
     **USE**: _git push github master_
     then
     type github username and password linked to this mail and github.
+# The largest heading
+## The second largest heading
+###### The smallest heading
