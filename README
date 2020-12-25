@@ -1,16 +1,14 @@
-# This is git repo for my C programming specilization on Coursera 
+Welcome to the Practice Programming Environment.
 
-## working on the *Duke University* Practice program enivronment. 
+This is where
+This is your directory for the assignments in this
+specialization. To do the first assignment:
 
-### To add the work from terminal in this repo:  
-    
-    **USE**: _git push github master_
-    then
-    type github username and password linked to this mail and github.
-#### Commands for checking on github
-```
-git status
-git commit -m
-git add [file name]
-git stash
-```
+cd 00_hello
+
+There, you will find a README with instructions.
+Once you do them and pass that assignment,
+the Practice Programming Environment will
+automatically give you the next assignment.
+You should then continue readings and videos
+in Coursera until you are ready for that assignment.
